@@ -10,7 +10,7 @@ wb = load_workbook(filename='2022 Carga MBI v3.xlsx', data_only=True)
 
 ws = wb['MBI META']
 
-
+#sadasd
 
 data = ws.values
 
