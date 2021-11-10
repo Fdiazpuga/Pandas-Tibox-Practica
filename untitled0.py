@@ -1,7 +1,5 @@
 from openpyxl import load_workbook
-
 import pandas as pd
-
 
 
 wb = load_workbook(filename='2022 Carga MBI v3.xlsx', data_only=True)
